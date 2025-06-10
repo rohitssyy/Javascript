@@ -1,5 +1,7 @@
 // Understanding Factory Functions in JavaScript
-
+// A factory function in JavaScript is a function that creates and returns objects.
+// It provides a way to encapsulate object creation logic,
+// making it easier to create multiple objects with similar structures but potentially different data. 
 
 // #1: Creating Objects Directly
 // Object `me1` with a property `fname` and a method `talk`
